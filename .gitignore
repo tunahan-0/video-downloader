@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Kullanıcı ayarları
+ayarlar.json
+cookies*.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
