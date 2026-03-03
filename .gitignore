@@ -13,7 +13,7 @@ dist/
 *.spec
 
 # Kullanıcı ayarları
-ayarlar.json
+settings.json
 cookies*.txt
 
 # IDE
